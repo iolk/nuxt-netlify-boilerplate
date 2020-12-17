@@ -1,7 +1,7 @@
 # Nuxt on Netlify boilerplate
 
 ## For VS-Code users
-You have to install [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) & [ESlint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) extensions
+Is suggested to install [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur), [ESlint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) and [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) extensions
 
 ## What is included
  - [Tailwind CSS](https://tailwindcss.com/)
